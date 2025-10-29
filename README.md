@@ -262,6 +262,4 @@ public function returnBook($transaction_id)
 
 ## Contributors
 
-- **Santiago Elija R. Sabulao Jr.**
-
-- Developed for DMMMSU System Integration and Architecture 2 (AY 2025-26).
+- **Soriano, Jyian Casey L.**

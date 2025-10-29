@@ -1,8 +1,8 @@
-# LibrarySys Documentation
+# Library Management System Documentation
 
 ## Overview
 
-**LibrarySys** is a web-based library management system built with Laravel. It provides features for librarians and members to manage books, users, and transactions efficiently.
+**Library Mangement System** is a web-based library management system built with Laravel. It provides features for librarians and members to manage books, users, and transactions efficiently.
 
 ---
 
